@@ -6,7 +6,7 @@ If people are stuck and cant figure out how to patch their MAME Roms using the [
 - MAME Rom ZIPs ([Search Google for Roms](https://www.google.com/search?q=mame+game+and+watch+roms))
 - Artwork ZIP for each game. ([Download artwork from somewhere like here](https://www.progettosnaps.net/artworks/artworks_files.php?romname=gnw))
 - The ROM Generator ([Download the file from the latest release that ends in "Tools.zip"](https://github.com/agg23/fpga-gameandwatch/releases))
-- My custom `patch.bat` file that will run the appropriate commands for you. ([Download here](https://github.com/random11x/agg23-fpga-gameandwatch-hand-hold-guide/blob/main/patch.bat))
+- My custom `patch.bat` file that will run the appropriate commands for you. (<a href="https://raw.githubusercontent.com/random11x/agg23-fpga-gameandwatch-hand-hold-guide/main/patch.bat" download="patch.bat">Download here</a>)
   
 ### Now that you have everything follow these steps:
 
