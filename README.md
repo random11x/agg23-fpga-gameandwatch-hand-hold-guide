@@ -23,7 +23,7 @@ If people are stuck and cant figure out how to patch their MAME Roms using the [
             ├── artwork/
             └── roms/
     ```
-6. Place your artwork zips in the `artwork` folder and your MAME rom zips in the `roms` folder.
+6. Place your artwork zips in the `artwork` folder and your MAME rom zips in the `roms` folder. (Do not unzip the individual rom and artwork files.)
 7. Copy the `patch.bat` file to the `windows` folder.
    ![image](https://github.com/random11x/agg23-fpga-gameandwatch-hand-hold-guide/assets/137963515/6919f414-dc2e-40e2-b8f5-807f0ca1dafb)
 8. Run the `patch.bat` file by double clicking on it. It will generate a `pocket-gnw-roms` folder that will contain the patched roms.
